@@ -1,14 +1,14 @@
 
-Random Joke Generator App 🤖✨<br>
+# Random Joke Generator App 🤖✨<br>
 An Android application built using Java and Android Studio that delivers a random joke with every tap! The app is designed to bring a smile to your face with its simple interface and seamless functionality.
 <br>
-Features:<br>
+# Features:<br>
 
 Random joke generation from a curated list.<br>
 Minimalistic and user-friendly design.<br>
 Lightweight and easy to use.<br>
 
-Technologies Used:<br>
+# Technologies Used:<br>
 
 Java: Core programming for app functionality.<br>
 Android Studio: Development environment for UI/UX and app building.<br>
